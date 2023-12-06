@@ -591,4 +591,3 @@ up route add -net 192.235.7.192 netmask 255.255.255.192 gw 192.235.7.110
 up route add -net 192.235.16.0 netmask 255.255.252.0 gw 192.235.7.110
 up route add -net 192.235.7.152 netmask 255.255.255.248 gw 192.235.7.110
 ```
-
